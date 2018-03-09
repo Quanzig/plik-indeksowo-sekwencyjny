@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.Results"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Results" Height="193.902" Width="286.585">
+    <Grid>
+        <Label x:Name="label_Copy" Content="Liczba odczytów stron z pliku:" HorizontalAlignment="Left" Margin="18,43,0,0" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="labelLoads" Content="" HorizontalAlignment="Left" Margin="193,43,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label_Copy1" Content="Liczba zapisów stron do pliku:" HorizontalAlignment="Left" Margin="18,69,0,0" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="labelSaves" Content="" HorizontalAlignment="Left" Margin="193,69,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label_Copy2" Content="Nazwa operacji:" HorizontalAlignment="Left" Margin="18,100,0,0" VerticalAlignment="Top" Width="104"/>
+        <Label x:Name="labelFileName" Content="" HorizontalAlignment="Left" Margin="127,100,0,0" VerticalAlignment="Top" Width="141"/>
+
+    </Grid>
+</Window>

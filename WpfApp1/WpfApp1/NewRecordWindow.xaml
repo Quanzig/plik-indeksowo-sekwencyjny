@@ -1,0 +1,40 @@
+﻿<Window x:Class="WpfApp1.NewRecordWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="NewRecordWindow" Height="318.404" Width="290.244">
+    <Grid Margin="0,0,0,8">
+        <Label x:Name="label" Content="Aby dodać nowy rekord, uzupełnij pola tekstowe. &#xD;&#xA;Puste pola będą traktowane jako 0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="272" Height="43"/>
+        <Label x:Name="labelFirst" Content="First" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxFirst" HorizontalAlignment="Left" Height="23" Margin="64,93,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelSecond" Content="Second" HorizontalAlignment="Left" Margin="10,113,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxSecond" HorizontalAlignment="Left" Height="23" Margin="64,116,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelThird" Content="Third" HorizontalAlignment="Left" Margin="10,136,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxThird" HorizontalAlignment="Left" Height="23" Margin="64,138,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelFourth" Content="Fourth" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxFourth" HorizontalAlignment="Left" Height="23" Margin="64,162,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelFifth" Content="Fifth" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxFifth" HorizontalAlignment="Left" Height="23" Margin="64,185,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelSixth" Content="Sixth" HorizontalAlignment="Left" Margin="134,90,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxSixth" HorizontalAlignment="Left" Height="23" Margin="191,93,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelSeventh" Content="Seventh" HorizontalAlignment="Left" Margin="134,113,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxSeventh" HorizontalAlignment="Left" Height="23" Margin="191,116,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelEighth" Content="Eighth" HorizontalAlignment="Left" Margin="134,136,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxEighth" HorizontalAlignment="Left" Height="23" Margin="191,139,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelNineth" Content="Nineth" HorizontalAlignment="Left" Margin="134,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxNineth" HorizontalAlignment="Left" Height="24" Margin="191,162,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="labelTenth" Content="Tenth" HorizontalAlignment="Left" Margin="134,182,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxTenth" HorizontalAlignment="Left" Height="23" Margin="191,185,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="47"/>
+        <Button x:Name="buttonAdd" Content="Dodaj" HorizontalAlignment="Left" Margin="197,249,0,0" VerticalAlignment="Top" Width="75" Click="buttonAdd_Click"/>
+        <Button x:Name="buttonReset" Content="Zresetuj" HorizontalAlignment="Left" Margin="99,249,0,0" VerticalAlignment="Top" Width="75" Click="buttonReset_Click"/>
+        <TextBox x:Name="textBoxFileName" HorizontalAlignment="Left" Height="23" Margin="98,220,0,0" TextWrapping="Wrap" Text="organisation.bin" VerticalAlignment="Top" Width="101"/>
+        <Label x:Name="label1" Content="Nazwa pliku:" HorizontalAlignment="Left" Margin="10,217,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label x:Name="labelStatus" Content="" HorizontalAlignment="Left" Margin="10,243,0,0" VerticalAlignment="Top" Width="83"/>
+        <Label x:Name="labelKey" Content="Key" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxKey" HorizontalAlignment="Left" Height="23" Margin="64,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="47"/>
+
+    </Grid>
+</Window>

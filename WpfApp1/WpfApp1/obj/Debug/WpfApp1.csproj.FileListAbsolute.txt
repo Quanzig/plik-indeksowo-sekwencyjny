@@ -1,0 +1,83 @@
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\DataWindow.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\DataWindow.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\Results.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny\WpfApp1\WpfApp1\obj\Debug\Results.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\DataWindow.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\Results.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\DataWindow.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\Results.baml
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Projekty\Struktury Baz Danych\PlikSekwencyjny — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\157211\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\157211\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\157211\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\DataWindow.g.cs
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.g.cs
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\Results.g.cs
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\DataWindow.baml
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.baml
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\Results.baml
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\157211\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\DataWindow.g.cs
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.g.cs
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\Results.g.cs
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\DataWindow.baml
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\NewRecordWindow.baml
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\Results.baml
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Downloads\WpfApp1\WpfApp1\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
