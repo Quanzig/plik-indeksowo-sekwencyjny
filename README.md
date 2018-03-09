@@ -1,2 +1,6 @@
-# plik-indeksowo-sekwencyjny
-Projekt ze Struktur Baz Danych wprowadzający do pliku z danymi strukturę indeksowo-sekwencyjna
+# Plik-indeksowo-sekwencyjny
+Projekt ze Struktur Baz Danych wprowadzający do pliku z danymi strukturę indeksowo-sekwencyjna, polegającym na tym, że rekordy dodawane są w specjalny sposób do pliku.
+Nowy rekord dodawany jest do tak zwanej strony, która ma ograniczony rozmiar (u mnie 5 rekordów). Rekordy w obrębie strony są posortowane względem jakiegoś kryterium ( u mnie - wartości klucza). Kiedy na stronei nei ma już miejsca na kolejny rekord, dodawany jest on na końcu pliku w taki sposób, że rekord ze strony (po którym powinien być nowy rekord) zawiera w sobie wskaźnik na ten nowy rekord, który dodawany jest na końcu pliku (tak zwany overflow pointer). Po określonej liczbie rekordów w strefie nadmiarowej, lub po wciśnięciu odpiedniego przycisku, wprowadza się reorganizację pliku, czyli już istniejący przerabia się w taki sposób, żeby było nie więcej niż alfa ( u mnie wynoszące 3 rekordy) rekordów na stronie.
+Rekordy znajdujące się w pliku można wyszkuiwać, usuwać oraz edytować (bez możliwości edycji wartosci klucza).
+
+Ponadto, po każdej operacji wyświetlam liczbę wykonanych operacji dyskowych - odczytu i zapisu, ponieważ dane te nei są wczytywane/zapisywane 'wszystkie na raz', tylko w sposób buforowany (u mnie max. 5 rekordów na raz).
